@@ -606,7 +606,7 @@ h3, header nav a, header .kicker, footer .lockup .content-wrap a {
 header, footer {
   background-repeat: no-repeat, no-repeat;
   background-size: 50px 50px, cover;
-  background-position: 30px 50px, 50% 50%;
+  background-position: 30px 50px, 50% 55%;
   background-blend-mode: normal; }
 
 header {
@@ -672,11 +672,11 @@ footer {
         font-size: 12px;
         color: rgba(0, 0, 0, 0.4); }
       footer .lockup .content-wrap a {
-        color: rgba(0, 0, 0, 0.5);
+        color: rgba(0, 0, 0, 0.7);
         display: inline-block;
         margin-right: 30px; }
         footer .lockup .content-wrap a:hover {
-          color: rgba(0, 0, 0, 0.7); }
+          color: #ff9900; }
 
 .face-lockup {
   max-width: 780px;
